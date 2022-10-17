@@ -39,8 +39,9 @@
 
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api?username=rex6s9&show_icons=true&theme=radical"/>
 
-<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="rex6s9"/>
+
 <a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://imagehost9.online-image-editor.com/oie_upload/images/171146434BWgl9/1713443JBWf7Zlg.gif"/></a>
+<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="rex6s9"/>
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex6s9&layout=compact" alt="rex6s9"/></a>
 
 <h3 align="left">Languages and Tools!:</h3>

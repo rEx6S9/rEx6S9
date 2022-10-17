@@ -24,22 +24,23 @@
    </a>
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rex6s9&label=Profile%20views&color=0e75b6&style=flat" alt="rex6s9" /> </p>
- 
-<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="400" src="https://imagehost9.online-image-editor.com/oie_upload/images/17113013vszySe/17132741h2ITODQL.gif"/></a>
 
 - 🔭 I’m currently working on [Organic Promotion Services!](https://t.me/proTector_2)
 
 - 🌱 I’m currently learning **Automations & web scraping!**
-
+<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://imagehost9.online-image-editor.com/oie_upload/images/17113013vszySe/17132741h2ITODQL.gif"/></a>
 - ⚡ Fun fact **! i'm Really funny !**
+
 <h3 align="left">📫Connect with mE:</h3>
+
 <p align="left">
 <a href="https://t.me/proTector_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6_r3x_9" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@proTector_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@proTector_3" height="32" width="32" /></a>
 
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api?username=rex6s9&show_icons=true&theme=radical"/>
-<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="400" src="https://imagehost9.online-image-editor.com/oie_upload/images/171146434BWgl9/1713443JBWf7Zlg.gif"/></a>
+
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="rex6s9"/>
+<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://imagehost9.online-image-editor.com/oie_upload/images/171146434BWgl9/1713443JBWf7Zlg.gif"/></a>
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex6s9&layout=compact" alt="rex6s9"/></a>
 
 <h3 align="left">Languages and Tools!:</h3>

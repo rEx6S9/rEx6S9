@@ -1,4 +1,4 @@
-<a href="https://github.com/rex6s9" target="blank"><img align="top" alt="Coding" width="800" src="https://github.com/rex6s9/rex6s9/blob/main/r3x6S9.gif?raw=true"/></a>
+<a href="https://github.com/rex6s9" target="blank"><img align="top" alt="Coding" width="960" src="https://github.com/rex6s9/rex6s9/blob/main/r3x6S9.gif?raw=true"/></a>
 <h3 align="center">
   Hi there, i'm rEx!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -6,7 +6,7 @@
 
 <!-- Typing SVGS by rex6s9 - https://github.com/rex6s9/readme-typing-svgs -->
 <p align="center">
-  <a href="https://github.com/rex6s9/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=welcome%20to%20my%20profile💙✔%20  ;  %20  %20  ;  %20  %20  %20 %20  ;  %20  %20  %20  &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/rex6s9/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=welcome%20to%20my%20profile!💙✔%20  ;  %20  %20  ;  %20  %20  %20 %20  ;  %20  %20  %20  &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 
 
 <!-- Social badges section -->
@@ -22,13 +22,13 @@
   <a href="https://github.com/rex6s9?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rex6s9?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rex6s9&label=Profile%20views&color=0e75b6&style=flat" alt="rex6s9" /> </p>
+
 
 - 🔭 I’m currently working on [Organic Promotion Services!](https://t.me/proTector_2)
 
 - 🌱 I’m currently learning **Automations & web scraping!**
-<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://github.com/rex6s9/rex6s9/blob/main/rEx6S9.gif?raw=true"/></a>
+
 - ⚡ Fun fact **! i'm Really funny !**
 
 <h3 align="left">📫Connect with mE:</h3>
@@ -39,10 +39,11 @@
 
 
 
-<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api?username=rex6s9&show_icons=true&theme=radical"/>
+<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api?username=rex6s9&show_icons=true&theme=radical"/> <a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="300" src="https://github.com/rex6s9/rex6s9/blob/main/rEx6S9.gif?raw=true"/></a>
 
-<a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://github.com/rex6s9/rex6s9/blob/main/rEx609.gif?raw=true"/></a>
-<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=rEx6S9&theme=radical" alt="rex6s9"/>
+<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=rEx6S9&theme=radical" alt="rex6s9"/> <a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="300" src="https://github.com/rex6s9/rex6s9/blob/main/rEx609.gif?raw=true"/></a>
+
+
 
 <br />
 <br />

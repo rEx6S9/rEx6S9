@@ -42,7 +42,7 @@
 <a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://github-readme-stats.vercel.app/api?username=rex6s9&show_icons=true&theme=radical"/>
 
 <a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="350" src="https://github.com/rex6s9/rex6s9/blob/main/rEx609.gif?raw=true"/></a>
-<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical" alt="rex6s9"/>
+<a href="https://github.com/rex6s9" target="blank"><img align="down" width="47%" src="https://streak-stats.demolab.com/?user=rEx6S9&theme=radical" alt="rex6s9"/>
 
 <br />
 <br />
@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="rEx's GitHub Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rEx6S9&show_icons=true&theme=radical"/>
+<a href="https://github.com/rex6s9" target="blank"><img align="left" alt="rEx's GitHub Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rEx6S9&show_icons=true&theme=radical"/>
 
 
 <h3 align="left">Languages and Tools!:</h3>

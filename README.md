@@ -25,15 +25,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rex6s9&label=Profile%20views&color=0e75b6&style=flat" alt="rex6s9" /> </p>
 
 
-- 🔭 I’m currently working on [Organic Promotion Services!](https://t.me/proTector_2)
+- 🔭 I’m currently working on [Organic Promotion Services](https://t.me/proTector_2)
 
-- 🌱 I’m currently learning **Automations & web scraping!**
+- 🌱 I’m currently learning **Automations & web scraping**
 
-- ⚡ Fun fact **! i'm Really funny !**
+- ⚡ Fun fact **! i'm Really funny..!**
 
-<h3 align="left">📫Connect with mE:</h3>
+<h3 align="left">💭Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/proTector_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6_r3x_9" height="30" width="30" /></a>
+<a href="https://t.me/proTector_2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="proTector_2" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@proTector_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@proTector_3" height="32" width="32" /></a>
 
   <a href="https://github.com/rex6s9" target="blank"><img align="right" alt="Coding" width="300" src="https://github.com/rex6s9/rex6s9/blob/main/rEx6S9.gif?raw=true"/></a>
